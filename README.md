@@ -22,31 +22,33 @@ It installs essential DirectShow filters and FFmpeg-based decoders, enabling mos
 ```
 LiveCodec/
 ├─ bin/
-│ ├─ LAVSplitter.ax
-│ ├─ LAVAudio.ax
-│ ├─ LAVVideo.ax
-│ ├─ avcodec-lav-62.dll
-│ ├─ avformat-lav-62.dll
-│ ├─ avutil-lav-60.dll
-│ ├─ swresample-lav-6.dll
-│ ├─ swscale-lav-9.dll
-│ └─ avfilter-lav-11.dll
+│   ├─ LAVSplitter.ax
+│   ├─ LAVAudio.ax
+│   ├─ LAVVideo.ax
+│   ├─ avcodec-lav-62.dll
+│   ├─ avformat-lav-62.dll
+│   ├─ avutil-lav-60.dll
+│   ├─ swresample-lav-6.dll
+│   ├─ swscale-lav-9.dll
+│   └─ avfilter-lav-11.dll
 │
 ├─ licenses/
-│ ├─ GPL-2.0.txt
-│ ├─ LGPL-2.1.txt
-│ ├─ CHANGELOG.txt
-│ ├─ THIRD-PARTY-NOTICES.txt
-│ └─ OFFER.txt
+│   ├─ GPL-2.0.txt
+│   ├─ LGPL-2.1.txt
+│   ├─ CHANGELOG.txt
+│   ├─ THIRD-PARTY-NOTICES.txt
+│   ├─ OFFER.txt
+│   ├─ COPYING
+│   └─ README.txt
 │
 └─ opensource/
-├─ lav-filters/
-│ ├─ LAVFilters-0.80-x64.zip
-│ └─ SHA256.txt
-│
-└─ ffmpeg/
-├─ ffmpeg-7.0.3.tar.xz
-└─ SHA256.txt
+    ├─ lav-filters/
+    │   ├─ LAVFilters-0.80-x64.zip
+    │   └─ SHA256.txt
+    │
+    └─ ffmpeg/
+        ├─ ffmpeg-7.0.3.tar.xz
+        └─ SHA256.txt
 ```
 
 ---
