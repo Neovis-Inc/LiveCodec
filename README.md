@@ -19,6 +19,7 @@ It installs essential DirectShow filters and FFmpeg-based decoders, enabling mos
 
 ## 📁 Directory Layout
 
+```
 LiveCodec/
 ├─ bin/
 │ ├─ LAVSplitter.ax
@@ -46,7 +47,7 @@ LiveCodec/
 └─ ffmpeg/
 ├─ ffmpeg-7.0.3-src.tar.xz
 └─ SHA256.txt
-
+```
 
 ---
 
