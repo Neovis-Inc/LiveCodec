@@ -1,0 +1,70 @@
+───────────────────────────────────────────────────────────────
+LiveCodec – Third-Party Open Source Notices
+───────────────────────────────────────────────────────────────
+
+Product: LiveCodec (DirectShow Codec Pack)
+Version: 1.0.0
+Publisher: Neovis Inc.
+Website: https://github.com/neovis-inc/LiveCodec
+
+───────────────────────────────────────────────────────────────
+1. LAV Filters
+───────────────────────────────────────────────────────────────
+Component: LAV Filters v0.80 (x64)
+Author: Hendrik N. Leppkes (Nevcairiel)
+License: GNU General Public License, version 2 (GPL v2)
+
+Binary files included:
+  • LAVSplitter.ax
+  • LAVAudio.ax
+  • LAVVideo.ax
+  • avcodec-lav-62.dll
+  • avfilter-lav-11.dll
+  • avformat-lav-62.dll
+  • avutil-lav-60.dll
+  • swresample-lav-6.dll
+  • swscale-lav-9.dll
+
+Source code:
+  https://github.com/Nevcairiel/LAVFilters/releases/tag/0.80
+  (Official release by Hendrik N. Leppkes)
+
+Checksum (upstream source archive):
+  SHA256(lavfilters-0.80-src.zip) = <to-be-filled>
+
+Notes:
+  LAV Filters incorporates FFmpeg libraries under the LGPL/GPL and
+  provides DirectShow filters for audio and video decoding.
+
+───────────────────────────────────────────────────────────────
+2. FFmpeg Libraries (LGPL components used within LAV Filters)
+───────────────────────────────────────────────────────────────
+Project: FFmpeg 7.x (used by LAV Filters 0.80)
+Website: https://ffmpeg.org/
+License: GNU Lesser General Public License v2.1 or later (LGPL)
+
+Source code:
+  https://ffmpeg.org/download.html  
+  https://github.com/FFmpeg/FFmpeg/releases/tag/n7.0.3
+  SHA256(ffmpeg-7.0.3.tar.xz) = <to-be-filled>
+
+───────────────────────────────────────────────────────────────
+3. Licensing Summary
+───────────────────────────────────────────────────────────────
+• LAV Filters is distributed under GPL v2.  
+• FFmpeg libraries within LAV Filters are under LGPL v2.1+.  
+• LiveCodec redistributes the original binaries without modification.  
+• Full source code for each GPL/LGPL component is available from the 
+  above URLs or the mirror hosted by Neovis Inc.:
+  https://github.com/neovis-inc/LiveCodec/tree/main/opensource
+
+───────────────────────────────────────────────────────────────
+4. Disclaimer
+───────────────────────────────────────────────────────────────
+This software is provided “as is” without warranty of any kind.  
+Neovis Inc. redistributes the above components in accordance with 
+their respective licenses and does not claim ownership of them.
+
+───────────────────────────────────────────────────────────────
+End of Third-Party Notices
+───────────────────────────────────────────────────────────────

@@ -1,0 +1,37 @@
+───────────────────────────────────────────────────────────────
+Source Code Offer for LiveCodec
+───────────────────────────────────────────────────────────────
+
+Neovis Inc. hereby offers to provide, free of charge (except for
+the cost of distribution media if applicable), the complete corre­
+sponding source code for all open-source software components in­
+cluded within the LiveCodec distribution that are licensed under
+the GNU General Public License (GPL) or the GNU Lesser General 
+Public License (LGPL).
+
+This offer is valid for a period of three (3) years from the date 
+of your receipt of this software package.
+
+You may obtain the source code in one of the following ways:
+
+  1. Download from our public repository:  
+     https://github.com/neovis-inc/LiveCodec/opensource  
+
+  2. Request by email:  
+     info@neovis.net  
+
+Upon request, we will make the source available through a secure
+download link or on physical media at cost of delivery.
+
+This offer covers in particular:
+  • LAV Filters v0.80 (GPL v2)  
+  • FFmpeg 7.x (LGPL v2.1+) used within LAV Filters  
+
+───────────────────────────────────────────────────────────────
+Publisher: Neovis Inc.  
+Address: #A59-708, 100 Crystal-ro, Seo-gu, Incheon, Republic of Korea  
+Contact: info@neovis.net  
+Website: https://github.com/neovis-inc/LiveCodec
+───────────────────────────────────────────────────────────────
+Date of Issue: 2025-11-12
+───────────────────────────────────────────────────────────────
