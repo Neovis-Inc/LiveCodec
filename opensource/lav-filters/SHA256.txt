@@ -4,3 +4,10 @@ License: GPL v2
 Source: https://github.com/Nevcairiel/LAVFilters/releases/tag/0.80
 SHA256: C121F087D1D48B6ABD38A641A3C5D1E391CD136B9B4EAD31C19CD3B098542650
 Verified: 2025-11-12 by Neovis Inc.
+
+File: LAVFilters-0.80-x86.zip
+Version: 0.80
+License: GPL v2
+Source: https://github.com/Nevcairiel/LAVFilters/releases/tag/0.80
+SHA256: DDDBEAB8FE3263A8D51104928213836EA7252EAC73072D7096EBB02934F9E9EC
+Verified: 2025-11-12 by Neovis Inc.
