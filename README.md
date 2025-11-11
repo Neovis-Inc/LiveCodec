@@ -22,15 +22,26 @@ It installs essential DirectShow filters and FFmpeg-based decoders, enabling mos
 ```
 LiveCodec/
 ├─ bin/
-│   ├─ LAVSplitter.ax
-│   ├─ LAVAudio.ax
-│   ├─ LAVVideo.ax
-│   ├─ avcodec-lav-62.dll
-│   ├─ avformat-lav-62.dll
-│   ├─ avutil-lav-60.dll
-│   ├─ swresample-lav-6.dll
-│   ├─ swscale-lav-9.dll
-│   └─ avfilter-lav-11.dll
+│   ├─ x86/
+│   │   ├─ LAVSplitter.ax
+│   │   ├─ LAVAudio.ax
+│   │   ├─ LAVVideo.ax
+│   │   ├─ avcodec-lav-62.dll
+│   │   ├─ avformat-lav-62.dll
+│   │   ├─ avutil-lav-60.dll
+│   │   ├─ swresample-lav-6.dll
+│   │   ├─ swscale-lav-9.dll
+│   │   └─ avfilter-lav-11.dll
+│   └─ x64/
+│       ├─ LAVSplitter.ax
+│       ├─ LAVAudio.ax
+│       ├─ LAVVideo.ax
+│       ├─ avcodec-lav-62.dll
+│       ├─ avformat-lav-62.dll
+│       ├─ avutil-lav-60.dll
+│       ├─ swresample-lav-6.dll
+│       ├─ swscale-lav-9.dll
+│       └─ avfilter-lav-11.dll
 │
 ├─ licenses/
 │   ├─ GPL-2.0.txt
