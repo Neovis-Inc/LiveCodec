@@ -21,8 +21,11 @@ It installs essential DirectShow filters and FFmpeg-based decoders, enabling mos
 
 ```
 LiveCodec/
+├─ EULA/
+│   └─ LiveCodec_EULA.txt
+│
 ├─ bin/
-│   ├─ x86/
+│   ├─ x64/
 │   │   ├─ LAVSplitter.ax
 │   │   ├─ LAVAudio.ax
 │   │   ├─ LAVVideo.ax
@@ -32,7 +35,7 @@ LiveCodec/
 │   │   ├─ swresample-lav-6.dll
 │   │   ├─ swscale-lav-9.dll
 │   │   └─ avfilter-lav-11.dll
-│   └─ x64/
+│   └─ x86/
 │       ├─ LAVSplitter.ax
 │       ├─ LAVAudio.ax
 │       ├─ LAVVideo.ax
