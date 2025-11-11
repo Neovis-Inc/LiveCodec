@@ -1,0 +1,6 @@
+File: ffmpeg-7.0.3.tar.xz
+Version: 7.0.3
+License: LGPL v2.1+ / GPL v2
+Source: https://ffmpeg.org/releases/ffmpeg-7.0.3.tar.xz
+SHA256: BBB18F3CC5C1C34B21CF176C0168C4D9AA97697542A97F60D491A58A814DEA65
+Verified: 2025-11-12 by Neovis Inc.
