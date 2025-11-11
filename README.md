@@ -41,11 +41,11 @@ LiveCodec/
 │
 └─ opensource/
 ├─ lav-filters/
-│ ├─ lavfilters-0.80-src.zip
+│ ├─ LAVFilters-0.80-x64.zip
 │ └─ SHA256.txt
 │
 └─ ffmpeg/
-├─ ffmpeg-7.0.3-src.tar.xz
+├─ ffmpeg-7.0.3.tar.xz
 └─ SHA256.txt
 ```
 
