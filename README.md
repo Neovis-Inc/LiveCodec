@@ -57,7 +57,7 @@ LiveCodec/
 │
 └─ opensource/
     ├─ lav-filters/
-    │   ├─ LAVFilters-0.80-x64.zip
+    │   ├─ LAVFilters-0.80.zip
     │   └─ SHA256.txt
     │
     └─ ffmpeg/
