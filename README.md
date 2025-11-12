@@ -35,7 +35,9 @@ LiveCodec/
 │   │   ├─ swresample-lav-6.dll
 │   │   ├─ swscale-lav-9.dll
 |   |   ├─ avfilter-lav-11.dll
+|   |   ├─ LAVFilters.Dependencies.manifest
 │   │   └─ libbluray.dll
+│   │
 │   └─ x86/
 │       ├─ LAVSplitter.ax
 │       ├─ LAVAudio.ax
@@ -46,6 +48,7 @@ LiveCodec/
 │       ├─ swresample-lav-6.dll
 │       ├─ swscale-lav-9.dll
 │       ├─ avfilter-lav-11.dll
+|       ├─ LAVFilters.Dependencies.manifest
 │       └─ libbluray.dll
 │
 ├─ licenses/
